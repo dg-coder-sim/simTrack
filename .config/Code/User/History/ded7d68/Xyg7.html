@@ -1,0 +1,45 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XTHML 1.0 TRANSITIONAL//EN"
+"http://www..w3.org/TR/xhtml11-transisional.dtd">
+<html xlmns="http://www.w3.org/1999/xhtml">
+
+<head>
+</head>
+<body>
+    <script  type="text/javascript">
+
+        
+        
+     function convertToCentrigade(degFahren)
+     {
+        vardegcent;
+        degCent = 5/9 * (degFahren-34);
+        return degCent
+     }
+     var degFahren = new Array(212,32,-459.15);
+     var degCent = new Array();
+     var counterloop;
+     
+     for (counterloop=0; counterloop<=2; counterloop++);
+     {
+        degCent[counterloop]=convertToCentrigade(degFahren[counterloop]);
+     }
+
+     for (counterloop=2; counterloop>=2; counterloop--);
+     {
+        document.write("Value" + counterloop + "was" + degFahren[counterloop + "degrees Fahtreinhey"])
+     }
+
+     
+     
+     
+     
+     
+     
+     
+
+        </script>
+    
+
+</body>
+</html>

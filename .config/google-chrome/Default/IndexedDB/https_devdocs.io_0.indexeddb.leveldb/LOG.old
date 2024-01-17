@@ -1,0 +1,7 @@
+2024/01/14-18:02:16.856 57c Reusing MANIFEST /home/osvaldo/.config/google-chrome/Default/IndexedDB/https_devdocs.io_0.indexeddb.leveldb/MANIFEST-000001
+2024/01/14-18:02:16.857 57c Recovering log #3
+2024/01/14-18:02:16.859 57c Reusing old log /home/osvaldo/.config/google-chrome/Default/IndexedDB/https_devdocs.io_0.indexeddb.leveldb/000003.log 
+2024/01/14-18:02:18.893 57d Level-0 table #5: started
+2024/01/14-18:02:18.903 57d Level-0 table #5: 2390 bytes OK
+2024/01/14-18:02:18.915 57d Delete type=0 #3
+2024/01/14-18:02:18.915 57d Manual compaction at level-0 from (begin) .. (end); will stop at (end)

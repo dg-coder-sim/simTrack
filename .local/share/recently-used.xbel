@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/osvaldo/Desktop/shell-lesson-data.zip" added="2023-12-29T14:57:34.768621Z" modified="2023-12-29T14:57:34.849148Z" visited="2023-12-29T14:57:34.768622Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2023-12-29T14:57:34.849145Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/repos/git_test/%23git%20test" added="2024-01-02T17:21:31.367102Z" modified="2024-01-02T17:21:31.367168Z" visited="2024-01-02T17:21:31.367103Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-02T17:21:31.367141Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/repos/git_test/README.md" added="2024-01-04T10:21:21.191073Z" modified="2024-01-04T10:25:17.631622Z" visited="2024-01-04T10:21:21.191074Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-04T10:25:17.631620Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate" added="2024-01-04T14:59:46.422868Z" modified="2024-01-04T14:59:46.422899Z" visited="2024-01-04T14:59:46.422869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-04T14:59:46.422895Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch1.html" added="2024-01-10T22:15:11.624196Z" modified="2024-01-10T22:15:11.624252Z" visited="2024-01-10T22:15:11.624197Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-10T22:15:11.624248Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch1ex2.html" added="2024-01-10T22:31:15.784632Z" modified="2024-01-10T22:31:15.784641Z" visited="2024-01-10T22:31:15.784633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-10T22:31:15.784637Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try1" added="2024-01-11T09:49:44.746812Z" modified="2024-01-11T09:49:44.746821Z" visited="2024-01-11T09:49:44.746812Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T09:49:44.746817Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try1.html" added="2024-01-11T09:51:09.209126Z" modified="2024-01-11T09:51:09.209130Z" visited="2024-01-11T09:51:09.209127Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T09:51:09.209128Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try2.html" added="2024-01-11T10:04:30.562871Z" modified="2024-01-11T10:04:30.562881Z" visited="2024-01-11T10:04:30.562872Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T10:04:30.562875Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try3.html" added="2024-01-11T10:34:55.854393Z" modified="2024-01-11T10:34:55.854403Z" visited="2024-01-11T10:34:55.854394Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T10:34:55.854399Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try4.html" added="2024-01-11T11:32:30.700501Z" modified="2024-01-11T11:32:30.700508Z" visited="2024-01-11T11:32:30.700502Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T11:32:30.700505Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try5.html" added="2024-01-11T11:55:34.269299Z" modified="2024-01-11T11:55:34.269305Z" visited="2024-01-11T11:55:34.269300Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T11:55:34.269302Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try6.html" added="2024-01-11T12:10:13.034437Z" modified="2024-01-11T12:10:13.034445Z" visited="2024-01-11T12:10:13.034438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T12:10:13.034441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try7html" added="2024-01-11T13:24:11.676195Z" modified="2024-01-11T13:24:11.676204Z" visited="2024-01-11T13:24:11.676196Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T13:24:11.676200Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try7.html" added="2024-01-11T13:25:27.851207Z" modified="2024-01-11T13:25:27.851214Z" visited="2024-01-11T13:25:27.851208Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T13:25:27.851211Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try8.html" added="2024-01-11T18:20:31.413390Z" modified="2024-01-11T18:20:31.413396Z" visited="2024-01-11T18:20:31.413392Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T18:20:31.413393Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch2try9.html" added="2024-01-11T18:38:18.136276Z" modified="2024-01-11T18:38:18.136282Z" visited="2024-01-11T18:38:18.136277Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-11T18:38:18.136279Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/template" added="2024-01-12T09:45:42.572916Z" modified="2024-01-12T09:45:42.572922Z" visited="2024-01-12T09:45:42.572917Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T09:45:42.572919Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/tt.html" added="2024-01-12T10:00:56.685506Z" modified="2024-01-12T10:00:56.685527Z" visited="2024-01-12T10:00:56.685507Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T10:00:56.685523Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/if1.html" added="2024-01-12T10:05:05.394422Z" modified="2024-01-12T10:05:05.394427Z" visited="2024-01-12T10:05:05.394423Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T10:05:05.394424Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try1.html" added="2024-01-12T12:34:16.729867Z" modified="2024-01-12T12:34:16.729875Z" visited="2024-01-12T12:34:16.729869Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T12:34:16.729872Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try2.html" added="2024-01-12T13:50:29.215609Z" modified="2024-01-12T13:50:29.215617Z" visited="2024-01-12T13:50:29.215610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T13:50:29.215613Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try3.html" added="2024-01-12T18:55:09.656887Z" modified="2024-01-12T18:55:09.656891Z" visited="2024-01-12T18:55:09.656888Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T18:55:09.656889Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try4.html" added="2024-01-12T19:23:07.725952Z" modified="2024-01-12T19:23:07.725962Z" visited="2024-01-12T19:23:07.725954Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-12T19:23:07.725957Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try5.html" added="2024-01-13T08:32:44.238584Z" modified="2024-01-13T08:32:44.238591Z" visited="2024-01-13T08:32:44.238585Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T08:32:44.238588Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try6.html" added="2024-01-13T08:42:29.602002Z" modified="2024-01-13T08:42:29.602007Z" visited="2024-01-13T08:42:29.602002Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T08:42:29.602004Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try7.html" added="2024-01-13T09:02:12.609530Z" modified="2024-01-13T09:02:12.609534Z" visited="2024-01-13T09:02:12.609530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T09:02:12.609532Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try8.html" added="2024-01-13T09:59:48.830711Z" modified="2024-01-13T09:59:48.830757Z" visited="2024-01-13T09:59:48.830712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T09:59:48.830715Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch3try9.html" added="2024-01-13T11:46:55.806902Z" modified="2024-01-13T12:11:23.502472Z" visited="2024-01-13T11:46:55.806903Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T12:11:23.502468Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch4try1.html" added="2024-01-13T12:30:44.297421Z" modified="2024-01-13T12:30:44.297430Z" visited="2024-01-13T12:30:44.297422Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T12:30:44.297427Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch4try2.html" added="2024-01-13T12:37:41.932583Z" modified="2024-01-13T17:18:20.008954Z" visited="2024-01-13T12:37:41.932584Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T17:18:20.008951Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/calcfoxtorialtopframe.html" added="2024-01-13T15:49:45.402820Z" modified="2024-01-13T15:49:45.402828Z" visited="2024-01-13T15:49:45.402821Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T15:49:45.402825Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/calcfactorial.html" added="2024-01-13T16:07:23.591937Z" modified="2024-01-13T23:41:31.212407Z" visited="2024-01-13T16:07:23.591939Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T23:41:31.212404Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/calcfactorialtopframe.html" added="2024-01-13T17:17:50.689612Z" modified="2024-01-13T23:41:57.617649Z" visited="2024-01-13T17:17:50.689613Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T23:41:57.617646Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/525937%20Ch04%20Code.zip" added="2024-01-13T18:18:10.672261Z" modified="2024-01-13T23:44:20.346470Z" visited="2024-01-13T18:18:10.672262Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-13T23:44:20.346468Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/525937%20Ch01%20Code.zip" added="2024-01-13T18:18:58.148796Z" modified="2024-01-13T18:19:35.954654Z" visited="2024-01-13T18:18:58.148797Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T18:18:58.148799Z" count="1"/>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-13T18:19:35.954652Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/525937%20Ch05%20Code.zip" added="2024-01-13T18:20:22.822224Z" modified="2024-01-14T03:41:56.868119Z" visited="2024-01-13T18:20:22.822225Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-14T03:41:56.868116Z" count="8"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/525937%20Ch05%20Code.zip" added="2024-01-13T23:38:18.403316Z" modified="2024-01-14T03:42:47.317573Z" visited="2024-01-13T23:38:18.403316Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-13T23:40:26.140511Z" count="6"/>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T03:42:47.317569Z" count="4"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/ch5_examp4.htm" added="2024-01-13T23:39:12.506786Z" modified="2024-01-13T23:39:12.506791Z" visited="2024-01-13T23:39:12.506786Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-13T23:39:12.506788Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/debuf/525937%20Ch05%20Code.zip" added="2024-01-13T23:44:01.105545Z" modified="2024-01-13T23:44:01.139384Z" visited="2024-01-13T23:44:01.105546Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-13T23:44:01.139382Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/template.html" added="2024-01-14T02:50:02.945437Z" modified="2024-01-14T02:50:02.945483Z" visited="2024-01-14T02:50:02.945438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T02:50:02.945460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/obj.html" added="2024-01-14T02:53:24.372028Z" modified="2024-01-14T02:53:24.372038Z" visited="2024-01-14T02:53:24.372030Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T02:53:24.372033Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/html-boilerplate/obj1.html" added="2024-01-14T03:23:31.203091Z" modified="2024-01-14T03:23:31.203099Z" visited="2024-01-14T03:23:31.203092Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T03:23:31.203095Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/525937%20Ch02%20Code.zip" added="2024-01-14T03:41:17.023879Z" modified="2024-01-14T03:41:17.076511Z" visited="2024-01-14T03:41:17.023880Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-14T03:41:17.076509Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads" added="2024-01-14T03:43:45.254308Z" modified="2024-01-15T01:27:45.701021Z" visited="2024-01-14T03:43:45.254309Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa %u&apos;" modified="2024-01-15T01:27:45.701017Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch05%20Code/ch5_examp1.htm" added="2024-01-14T03:44:17.251534Z" modified="2024-01-14T03:44:17.251539Z" visited="2024-01-14T03:44:17.251535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T03:44:17.251537Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch05%20Code/ch5_examp2.htm" added="2024-01-14T04:52:33.974054Z" modified="2024-01-14T04:52:33.974060Z" visited="2024-01-14T04:52:33.974055Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T04:52:33.974057Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch05%20Code/ch5_examp3.htm" added="2024-01-14T05:29:37.430888Z" modified="2024-01-14T05:29:37.430894Z" visited="2024-01-14T05:29:37.430889Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T05:29:37.430892Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/525937%20Ch06%20Code.zip" added="2024-01-14T06:21:54.590266Z" modified="2024-01-14T06:21:54.630062Z" visited="2024-01-14T06:21:54.590267Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-14T06:21:54.630059Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch06%20Code/ch6_examp1.htm" added="2024-01-14T06:23:06.384951Z" modified="2024-01-14T06:23:06.384956Z" visited="2024-01-14T06:23:06.384951Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T06:23:06.384954Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch06%20Code/ch6_examp3.htm" added="2024-01-14T06:44:45.050964Z" modified="2024-01-14T06:44:45.050971Z" visited="2024-01-14T06:44:45.050965Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-14T06:44:45.050968Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch06%20Code/ch7.try1.htm" added="2024-01-15T01:24:42.491058Z" modified="2024-01-15T01:25:55.580786Z" visited="2024-01-15T01:24:42.491059Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-15T01:25:55.580784Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/Ch06%20Code/ch7try2.htm" added="2024-01-15T01:26:27.914285Z" modified="2024-01-15T01:26:27.914316Z" visited="2024-01-15T01:26:27.914286Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-15T01:26:27.914291Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Downloads/525937%20Ch07%20Code.zip" added="2024-01-15T01:27:35.340269Z" modified="2024-01-15T01:27:35.374982Z" visited="2024-01-15T01:27:35.340270Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Engrampa" exec="&apos;engrampa&apos;" modified="2024-01-15T01:27:35.374976Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/%3C!Doc1" added="2024-01-16T11:28:05.642459Z" modified="2024-01-16T11:28:05.642469Z" visited="2024-01-16T11:28:05.642460Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T11:28:05.642465Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/java%20template.html" added="2024-01-16T11:28:38.124980Z" modified="2024-01-16T11:32:39.908748Z" visited="2024-01-16T11:28:38.124982Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T11:32:39.908746Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/message.html" added="2024-01-16T11:58:38.851595Z" modified="2024-01-16T11:58:38.851616Z" visited="2024-01-16T11:58:38.851598Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T11:58:38.851603Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/message1.html" added="2024-01-16T12:11:12.319320Z" modified="2024-01-16T12:11:12.319326Z" visited="2024-01-16T12:11:12.319321Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T12:11:12.319323Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/ex1.html" added="2024-01-16T12:24:02.736052Z" modified="2024-01-16T12:24:02.736058Z" visited="2024-01-16T12:24:02.736053Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T12:24:02.736055Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/ex2.html" added="2024-01-16T12:44:03.920614Z" modified="2024-01-16T12:44:03.920620Z" visited="2024-01-16T12:44:03.920615Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T12:44:03.920617Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/Documents/variables.html" added="2024-01-16T20:42:53.402504Z" modified="2024-01-16T20:42:53.402559Z" visited="2024-01-16T20:42:53.402506Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-16T20:42:53.402509Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/myproject/myfisrfile.html" added="2024-01-17T12:39:46.929346Z" modified="2024-01-17T12:39:46.929351Z" visited="2024-01-17T12:39:46.929347Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-17T12:39:46.929348Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/myproject/index..html" added="2024-01-17T12:40:17.414043Z" modified="2024-01-17T12:40:17.414048Z" visited="2024-01-17T12:40:17.414044Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/html"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-17T12:40:17.414046Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/myproject/README.md" added="2024-01-17T12:56:53.769858Z" modified="2024-01-17T12:56:53.769863Z" visited="2024-01-17T12:56:53.769859Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/markdown"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-17T12:56:53.769860Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/myproject/bluestylesheet.css" added="2024-01-17T12:58:23.856437Z" modified="2024-01-17T12:58:23.856444Z" visited="2024-01-17T12:58:23.856438Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/css"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-17T12:58:23.856441Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/osvaldo/myproject" added="2024-01-17T13:00:42.043731Z" modified="2024-01-17T13:00:42.043736Z" visited="2024-01-17T13:00:42.043731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2024-01-17T13:00:42.043733Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

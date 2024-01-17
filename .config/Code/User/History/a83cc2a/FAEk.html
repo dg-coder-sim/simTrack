@@ -1,0 +1,30 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XTHML 1.0 TRANSITIONAL//EN"
+"http://www..w3.org/TR/xhtml11-transisional.dtd">
+<html xlmns="http://www.w3.org/1999/xhtml">
+
+<head>
+</head>
+<body>
+    <script  type="text/javascript">
+        
+      var degFahren = new Array(212, 32, -419.15);
+      var degCent = new Array();
+      var loopCounter;
+      
+      for(loopCounter=1; loopCounter<=2; loopCounter++)
+      {
+        degCent[loopCounter]=5/9 * (degFahren[loopCounter]- 32);
+      }
+      for(loopCounter=2; loopCounter>=0; loopCounter--)
+      {
+        document.write("Values" + loopCounter + "was" + degFahren[loopCounter] + "degrees Farenheit");
+
+        document.write("Which is" + degCent[loopCounter])
+      }
+
+        </script>
+    
+
+</body>
+</html>

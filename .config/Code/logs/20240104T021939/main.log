@@ -1,0 +1,13 @@
+2024-01-04 02:19:40.794 [info] update#setState idle
+2024-01-04 02:20:10.819 [info] update#setState checking for updates
+2024-01-04 02:20:11.057 [info] update#setState idle
+2024-01-04 03:20:10.998 [info] update#setState checking for updates
+2024-01-04 03:20:12.296 [info] update#setState idle
+2024-01-04 04:20:11.396 [info] update#setState checking for updates
+2024-01-04 04:20:12.482 [info] update#setState idle
+2024-01-04 05:20:11.719 [info] update#setState checking for updates
+2024-01-04 05:20:13.192 [info] update#setState idle
+2024-01-04 06:20:11.727 [info] update#setState checking for updates
+2024-01-04 06:20:12.556 [info] update#setState idle
+2024-01-04 06:59:46.866 [info] Extension host with pid 2258 exited with code: 0, signal: unknown.
+2024-01-04 07:00:19.794 [info] Extension host with pid 3800 exited with code: 0, signal: unknown.

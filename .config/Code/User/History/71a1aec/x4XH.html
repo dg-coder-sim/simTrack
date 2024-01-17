@@ -1,0 +1,40 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XTHML 1.0 TRANSITIONAL//EN"
+"http://www..w3.org/TR/xhtml11-transisional.dtd">
+<html xlmns="http://www.w3.org/1999/xhtml">
+
+<head>
+</head>
+<body>
+    <script  type="text/javascript">
+        
+       var secretNumber=prompt("Pick a Number from 1 to 5:","");
+       secretNumber=parseInt(secretNumber);
+
+       switch(secretNumber)
+       {
+        case 1:
+        case 2:   
+        document.write("Too Low");
+        break;
+
+        case 3:
+        document.write("You Guesses The Secret Number");
+        break;
+        
+        case 4:
+        case 5:   
+        document.write("Too High");
+        break;
+       
+        default:
+        document.write("its not between 1 and 5");
+        break;
+
+       }
+
+        </script>
+    
+
+</body>
+</html>
